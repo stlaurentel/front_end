@@ -10,7 +10,7 @@ function App() {
 
       <div>
         <h1>SPA Group Project</h1>
-        <h2>Srijijta Ghostal, Emma St. Laurent, Mia Belliveau</h2>
+        <h2>Srijita Ghoshal, Emma St. Laurent, Mia Belliveau</h2>
       </div>
 
     </>
